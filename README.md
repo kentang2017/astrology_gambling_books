@@ -2,7 +2,7 @@
 
 | 年份          | 作者           | 書名                                           | ISBN / ASIN     |   介紹      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |------------- |
-| 1927     | Isidore Kozminsky         | ![alt text](https://pictures.abebooks.com/inventory/30576087798.jpg) Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"          |              |     |
+| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery" ![alt text](https://pictures.abebooks.com/inventory/30576087798.jpg)           |   |     |
 | 1928     | 	Isidore Kozminsky     | Numbers and horse racing               |               |              |
 | 1934     |  Pegasus         | Racing Stars & Numbers       |              |     ||     |
 | 1934     | C. S. Swetaranyam         | The Treasures of the Turf       |              |     |
