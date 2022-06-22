@@ -12,6 +12,7 @@
 | 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |       |     |
 | 1964     |  T. G Butaney        | Picking winners in races         |       |     |
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              |     |
+| 1968     |  T. G Butaney  |  Master key of races : in it are incorporated, all handicap, numerological & astrological secrets discovered by me during 1966 & 1967 to pick winner in each race    |              |     |
 | 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |       |
 | 1975     | Rasajo         | HHorary numerology of the turf          |   0-912356-04-9   |       |
 | 1980     | Joyce c. Wehrman     |  Winning!! Zodiacal Timing   |   B000LPMROQ |
