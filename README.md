@@ -2,7 +2,7 @@
 
 | 年份          | 作者           | 書名                                           | ISBN / ASIN     |   介紹      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |------------- |
-| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery" ![alt text](https://pictures.abebooks.com/inventory/30576087798.jpg)           |   |     |
+| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |   |  ![alt text](https://pictures.abebooks.com/inventory/30576087798.jpg)   |
 | 1928     | 	Isidore Kozminsky     | Numbers and horse racing               |               |              |
 | 1934     |  Pegasus         | Racing Stars & Numbers       |              |     ||     |
 | 1934     | C. S. Swetaranyam         | The Treasures of the Turf       |              |     |
@@ -22,6 +22,5 @@
 | 2005    | 	Donald Bradley | Collected Works of Donald Bradley: Stock Market Prediction. Picking Winners. The Parallax Problem In Astrology. Solar & Lunar Returns  |       |   |
 | 2016    | 	John Savarese     | Astrology for Winners  |        |   |
 | 2020    | 	Elizabeth Cook   | Winning Ways  |        |   |
-| 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)  | | 
+| 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing  |  ![alt text](https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg) | 
 
