@@ -18,6 +18,7 @@
 | 1980     | Joyce c. Wehrman     |  Winning!! Zodiacal Timing   |   B000LPMROQ |
 | 1980     | Jack Gillen          | Key to Speculation for Greyhound Dog Racing          |              |     |
 | 1998    | 	Mozan     | Racing Numerology: A Standard System of the Science of Numbers Applied to Horse Racing   | 0787306282        |   |
+| 2001    | 	Trevor, H.    | Scientific Racing Up to Date   |       |   |
 | 2005    | 	Donald Bradley | Collected Works of Donald Bradley: Stock Market Prediction. Picking Winners. The Parallax Problem In Astrology. Solar & Lunar Returns  |       |   |
 | 2016    | 	John Savarese     | Astrology for Winners  |        |   |
 | 2021     | Gary Price | The Astrologer’s Guide to Horse Racing: A Field Guide to Racing | | 
