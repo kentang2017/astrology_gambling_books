@@ -14,7 +14,7 @@
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              |     |
 | 1968     |  T. G Butaney  |  Master key of races : in it are incorporated, all handicap, numerological & astrological secrets discovered by me during 1966 & 1967 to pick winner in each race    |              |     |
 | 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |       |
-| 1975     | Rasajo         | Horary numerology of the turf          |   0-912356-04-9   |  ![alt text](http://2.bp.blogspot.com/-VpwvVDIpyqU/UIU0ZmW-7aI/AAAAAAAAABQ/rOW3fB_GGRk/s1600/HORARY+NUMEROLOGY+OF+THE+TURF.jpg))     |
+| 1975     | Rasajo         | Horary numerology of the turf          |   0-912356-04-9   |  ![alt text](http://2.bp.blogspot.com/-VpwvVDIpyqU/UIU0ZmW-7aI/AAAAAAAAABQ/rOW3fB_GGRk/s1600/HORARY+NUMEROLOGY+OF+THE+TURF.jpg)     |
 | 1980     | Joyce c. Wehrman     |  Winning!! Zodiacal Timing   |   B000LPMROQ | ![alt text](https://images-na.ssl-images-amazon.com/images/I/51V3tr-nfJL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)  |
 | 1980     | Jack Gillen          | Key to Speculation for Greyhound Dog Racing          |              |     |
 | 1998    | 	Mozan     | Racing Numerology: A Standard System of the Science of Numbers Applied to Horse Racing   | 0787306282        |   |
