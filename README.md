@@ -14,7 +14,6 @@
 | 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |       |
 | 1980     | Jack Gillen          | Key to Speculation for Greyhound Dog Racing          |              |     |
 | 1998    | 	Mozan     | Racing Numerology: A Standard System of the Science of Numbers Applied to Horse Racing   | 0787306282        |   |
-| 2016    | 	John Savarese     | Astrology for Winners
-Astrology for Winners   |        |   |
+| 2016    | 	John Savarese     | Astrology for Winners  |        |   |
 | 2021     | Gary Price | The Astrologer’s Guide to Horse Racing: A Field Guide to Racing | | 
 
