@@ -9,7 +9,8 @@
 | 1938     | Ariel          | Astronomy Applied to Horse Racing               |               |              |
 | 1957     | Rufus Perry    |  How to Beat the Races by Numerology      |              |     |
 | 1958     | Dr. Bh. Satyanarayana Rao.      |   X-Raying Winners on Racing      |              |     |
-| 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |      
+| 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |       |     |
+| 1964     |  T. G Butaney        | Picking winners in races         |       |     |
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              |     |
 | 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |       |
 | 1975     | Rasajo         | HHorary numerology of the turf          |   0-912356-04-9   |       |
