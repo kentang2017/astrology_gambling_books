@@ -13,7 +13,7 @@
 | 1958     | Dr. Bh. Satyanarayana Rao.      |   X-Raying Winners on Racing      |              |   <img src="/images/x-rayingwinners.jpg" width="180" />  |
 | 1959     |  T. G Butaney     |  Spotting Winners in Horse Races     |              |   <img src="https://cdn.shopify.com/s/files/1/2183/7201/products/IMG_9089.jpg" width="180" />   |
 | 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |       |  <img src="https://images-na.ssl-images-amazon.com/images/I/41SxoAGv1+L._SX373_BO1,204,203,200_.jpg" width="180" />   |
-| 1964     |  T. G Butaney        | Picking winners in races         |       |     |
+| 1964     |  T. G Butaney        | How To Forecast Prices & Winners in Horse Races      |       |  ![image](https://user-images.githubusercontent.com/34528743/181479950-5e78f78a-2dfe-41a8-8317-9a49986e46e6.png)   |
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              | <img src="/images/RigelSpica1967.jpg" width="180" /> |
 | 1968     |  T. G Butaney  |  Master key of races : in it are incorporated, all handicap, numerological & astrological secrets discovered by me during 1966 & 1967 to pick winner in each race    |              |  ![alt text](https://user-images.githubusercontent.com/34528743/181476569-89946746-0b77-4c49-9558-60337ffb25ba.png)  |
 | 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |  ![alt text](https://user-images.githubusercontent.com/34528743/181476318-1f6b0860-131b-4689-95df-9b1e7d70088f.png)    |
