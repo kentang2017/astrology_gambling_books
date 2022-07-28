@@ -16,7 +16,7 @@
 | 1964     |  T. G Butaney        | Picking winners in races         |       |     |
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              | <img src="/images/RigelSpica1967.jpg" width="180" /> |
 | 1968     |  T. G Butaney  |  Master key of races : in it are incorporated, all handicap, numerological & astrological secrets discovered by me during 1966 & 1967 to pick winner in each race    |              |     |
-| 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |       |
+| 1973     | Barbara H. Watters          | Horary Astrology and the Judgment of Events          |   0-912356-04-9   |  ![alt text](https://user-images.githubusercontent.com/34528743/181476318-1f6b0860-131b-4689-95df-9b1e7d70088f.png)    |
 | 1975     | Rasajo         | Horary numerology of the turf          |   0-912356-04-9   |  ![alt text](http://2.bp.blogspot.com/-VpwvVDIpyqU/UIU0ZmW-7aI/AAAAAAAAABQ/rOW3fB_GGRk/s1600/HORARY+NUMEROLOGY+OF+THE+TURF.jpg)     |
 | 1980     | Joyce c. Wehrman     |  Winning!! Zodiacal Timing   |   B000LPMROQ | ![alt text](https://images-na.ssl-images-amazon.com/images/I/51V3tr-nfJL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)  |
 | 1980     | Jack Gillen          | Key to Speculation for Greyhound Dog Racing          |              |  ![alt text](https://images-na.ssl-images-amazon.com/images/I/51HTRyXEpdL._SX325_BO1,204,203,200_.jpg)    |
