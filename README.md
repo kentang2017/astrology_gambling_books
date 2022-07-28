@@ -22,7 +22,7 @@
 | 1980     | Jack Gillen          | Key to Speculation for Greyhound Dog Racing          |              |  ![alt text](https://images-na.ssl-images-amazon.com/images/I/51HTRyXEpdL._SX325_BO1,204,203,200_.jpg)    |
 | 1997    |  中山雲水   |   馬メシ 二十八宿 奇跡の馬券―とてつもない馬券を生む周期法則 (サンケイブックス) 単行本 |  | ![alt text](https://images-na.ssl-images-amazon.com/images/I/51009YiwKoL._SX354_BO1,204,203,200_.jpg)   |
 | 1998    | 	Mozan     | Racing Numerology: A Standard System of the Science of Numbers Applied to Horse Racing   | 0787306282        |  ![alt text](https://images-na.ssl-images-amazon.com/images/I/41YAaHZ20hL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)  |
-| 2001    | 	Trevor, H.    | Scientific Racing Up to Date   |       |   |
+| 2001    | 	Trevor, H.    | Scientific Racing Up to Date   |       | ![alt text](https://user-images.githubusercontent.com/34528743/181475791-c29c8555-b25f-43a3-825a-f6b62c954479.png) |
 | 2005    | 	Donald Bradley | Collected Works of Donald Bradley: Stock Market Prediction. Picking Winners. The Parallax Problem In Astrology. Solar & Lunar Returns  |       |    ![alt text](https://images-na.ssl-images-amazon.com/images/I/515sPGgZirL._SX356_BO1,204,203,200_.jpg) |
 | 2016    | 	John Savarese     | Astrology for Winners  |        | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41gMid18SuL._SX356_BO1,204,203,200_.jpg)   |
 | 2020    | 	Elizabeth Cook   | Winning Ways  |        | ![alt text](![image](https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png)  |
