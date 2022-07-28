@@ -2,9 +2,9 @@
 
 本頁記錄有關術數應用於賭博之上的書籍。
 
-| 年份          | 作者           | 書名                                           | ISBN / ASIN     |   介紹      |
+| 年份          | 作者           | 書名                                           | ISBN / ASIN     |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |------------- |
-| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |   |  <img src="https://pictures.abebooks.com/inventory/30576087798.jpg" width="200"/>   |
+| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |   |  <img src="https://pictures.abebooks.com/inventory/30576087798.jpg" width="80"/>   |
 | 1928     | 	Isidore Kozminsky     | Numbers and horse racing               |               |              |
 | 1934     |  Pegasus         | Racing Stars & Numbers       |              |     ||     |
 | 1934     | C. S. Swetaranyam         | The Treasures of the Turf       |              |     |
