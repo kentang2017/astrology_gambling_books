@@ -1,4 +1,4 @@
-# 占星、術數賽馬書目
+# 占星、術數賽馬書目 Bibliography of applying astrology & numerology on horse racing 
 
 本頁記錄有關術數應用於賭博之上的書籍。
 
