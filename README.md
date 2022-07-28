@@ -24,7 +24,7 @@
 | 1998    | 	Mozan     | Racing Numerology: A Standard System of the Science of Numbers Applied to Horse Racing   | 0787306282        |  ![alt text](https://images-na.ssl-images-amazon.com/images/I/41YAaHZ20hL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)  |
 | 2001    | 	Trevor, H.    | Scientific Racing Up to Date   |       | ![alt text](https://user-images.githubusercontent.com/34528743/181475791-c29c8555-b25f-43a3-825a-f6b62c954479.png) |
 | 2005    | 	Donald Bradley | Collected Works of Donald Bradley: Stock Market Prediction. Picking Winners. The Parallax Problem In Astrology. Solar & Lunar Returns  |       |    ![alt text](https://images-na.ssl-images-amazon.com/images/I/515sPGgZirL._SX356_BO1,204,203,200_.jpg) |
-| 2016    | 	John Savarese     | Astrology for Winners  |        | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41gMid18SuL._SX356_BO1,204,203,200_.jpg)   |
+| 2016    | 	John Savarese     | Astrology for Winners  |        | ![image](https://user-images.githubusercontent.com/34528743/181480122-bc1d4b02-826d-46b7-80a9-203b01c03ee5.png)   |
 | 2016    | 	Anthony J Mead     | 'Raceching Simplified': Use the Power of I Ching to Pick Winners of Horse Races  |        | ![image](https://user-images.githubusercontent.com/34528743/181478079-e81a6118-053e-4398-abb3-ac986c4a2620.png)   |
 | 2020    | 	Elizabeth Cook   | Winning Ways  |        | ![alt text](https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png)  |
 | 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing  |  | ![alt text](https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg) | 
