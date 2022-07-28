@@ -1,5 +1,7 @@
 # 占星、術數賽馬書目
 
+本頁記錄有關術數應用於賭博之上的書籍。
+
 | 年份          | 作者           | 書名                                           | ISBN / ASIN     |   介紹      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |------------- |
 | 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |   |  ![alt text](https://pictures.abebooks.com/inventory/30576087798.jpg)   |
