@@ -4,14 +4,14 @@
 
 | 年份          | 作者           | 書名                                           | ISBN / ASIN     |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |------------- |
-| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |   |  <img src="https://pictures.abebooks.com/inventory/30576087798.jpg" width="180" align="center"/>   |
+| 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |   |  <img src="https://pictures.abebooks.com/inventory/30576087798.jpg" width="180" />   |
 | 1928     | 	Isidore Kozminsky     | Numbers and horse racing               |               |              |
 | 1934     |  Pegasus         | Racing Stars & Numbers       |              |     ||     |
 | 1934     | C. S. Swetaranyam         | The Treasures of the Turf       |              |     |
 | 1938     | Ariel          | Astronomy Applied to Horse Racing               |               |              |
-| 1957     | Rufus Perry    |  How to Beat the Races by Numerology      |              |  ![alt text](https://images-na.ssl-images-amazon.com/images/I/51EEKyrWFcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)   |
+| 1957     | Rufus Perry    |  How to Beat the Races by Numerology      |              |  <img src="https://images-na.ssl-images-amazon.com/images/I/51EEKyrWFcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" />   |
 | 1958     | Dr. Bh. Satyanarayana Rao.      |   X-Raying Winners on Racing      |              |     |
-| 1959     |  T. G Butaney     |  Spotting Winners in Horse Races     |              |   ![alt text](https://cdn.shopify.com/s/files/1/2183/7201/products/IMG_9089.jpg?v=1631083065&width=1445)  |
+| 1959     |  T. G Butaney     |  Spotting Winners in Horse Races     |              |   <img src="https://cdn.shopify.com/s/files/1/2183/7201/products/IMG_9089.jpg" width="180" />   |
 | 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |       |     |
 | 1964     |  T. G Butaney        | Picking winners in races         |       |     |
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              |     |
