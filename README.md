@@ -12,7 +12,7 @@
 | 1957     | Rufus Perry    |  How to Beat the Races by Numerology      |              |  <img src="https://images-na.ssl-images-amazon.com/images/I/51EEKyrWFcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" />   |
 | 1958     | Dr. Bh. Satyanarayana Rao.      |   X-Raying Winners on Racing      |              |   <img src="/images/x-rayingwinners.jpg" width="180" />  |
 | 1959     |  T. G Butaney     |  Spotting Winners in Horse Races     |              |   <img src="https://cdn.shopify.com/s/files/1/2183/7201/products/IMG_9089.jpg" width="180" />   |
-| 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |       |  <img src="https://images-na.ssl-images-amazon.com/images/I/41SxoAGv1+L._SX373_BO1,204,203,200_.jpg" width="180" />   |
+| 1961     |  V. G. Rele, L.M.; S., F.C.P.S         | Practical Astro-Numerology          |       |  <img src="/images/practical_astro.png" width="180" />   |
 | 1964     |  T. G Butaney        | How To Forecast Prices & Winners in Horse Races      |       |   <img src="https://user-images.githubusercontent.com/34528743/181479950-5e78f78a-2dfe-41a8-8317-9a49986e46e6.png" width="180" />   |
 | 1967     | Rigel Spica   |  1968 Forecast Astrology and Horse Racing     |              | <img src="/images/RigelSpica1967.jpg" width="180" /> |
 | 1968     |  T. G Butaney  |  Master key of races : in it are incorporated, all handicap, numerological & astrological secrets discovered by me during 1966 & 1967 to pick winner in each race    |              |  <img src="https://user-images.githubusercontent.com/34528743/181476569-89946746-0b77-4c49-9558-60337ffb25ba.png" width="180" />   |
