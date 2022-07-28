@@ -25,6 +25,6 @@
 | 2001    | 	Trevor, H.    | Scientific Racing Up to Date   |       | ![alt text](https://user-images.githubusercontent.com/34528743/181475791-c29c8555-b25f-43a3-825a-f6b62c954479.png) |
 | 2005    | 	Donald Bradley | Collected Works of Donald Bradley: Stock Market Prediction. Picking Winners. The Parallax Problem In Astrology. Solar & Lunar Returns  |       |    ![alt text](https://images-na.ssl-images-amazon.com/images/I/515sPGgZirL._SX356_BO1,204,203,200_.jpg) |
 | 2016    | 	John Savarese     | Astrology for Winners  |        | ![alt text](https://images-na.ssl-images-amazon.com/images/I/41gMid18SuL._SX356_BO1,204,203,200_.jpg)   |
-| 2020    | 	Elizabeth Cook   | Winning Ways  |        | ![alt text](![image](https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png)  |
+| 2020    | 	Elizabeth Cook   | Winning Ways  |        | ![alt text](https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png)  |
 | 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing  |  | ![alt text](https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg) | 
 
