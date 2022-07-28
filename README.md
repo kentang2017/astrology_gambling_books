@@ -1,8 +1,8 @@
-# 占星、術數賽馬書目 Bibliography of applying astrology & numerology on horse racing 
+# Bibliography of applying astrology & numerology & divination on horse racing 
 
-本頁記錄有關術數應用於賭博之上的書籍。
 
-| 年份          | 作者           | 書名                                           |   Cover      |
+
+| Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |     <img src="https://pictures.abebooks.com/inventory/30576087798.jpg" width="180" />   |
 | 1928     | 	Isidore Kozminsky     | Numbers and horse racing               |                            |
