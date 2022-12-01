@@ -1,4 +1,4 @@
-# Bibliography of applying astrology & numerology & divination on horse racing 
+# Bibliography of applying astrology, numerology and divination on horse racing 
 
 
 
