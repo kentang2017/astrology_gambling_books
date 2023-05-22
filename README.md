@@ -10,6 +10,7 @@
 | 1934     |  Pegasus         | Racing Stars & Numbers       |              |     |     |
 | 1934     | C. S. Swetaranyam         | The Treasures of the Turf       |                  |
 | 1938     | Ariel          | Astronomy Applied to Horse Racing               |    <img src="/images/WeChat 圖片_20221206141629.jpg"/>                        |
+| 1939     | Kozminsky, Isidore  | My Key Treatise         |    <img src="https://github.com/kentang2017/horseracingbooks/assets/34528743/5159ceff-21be-4615-837e-a32948ae35a4" width="180" />|
 | 1957     | Rufus Perry    |  How to Beat the Races by Numerology      |              <img src="https://images-na.ssl-images-amazon.com/images/I/51EEKyrWFcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" />   |
 | 1958     | Dr. Bh. Satyanarayana Rao.      |   X-Raying Winners on Racing      |                <img src="/images/x-rayingwinners.jpg" width="180" />  |
 | 1959     |  T. G Butaney     |  Spotting Winners in Horse Races     |                <img src="https://cdn.shopify.com/s/files/1/2183/7201/products/IMG_9089.jpg" width="180" />   |
