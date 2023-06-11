@@ -23,6 +23,7 @@
 | 1975     | Rasajo         | Horary numerology of the turf          |    <img src="http://2.bp.blogspot.com/-VpwvVDIpyqU/UIU0ZmW-7aI/AAAAAAAAABQ/rOW3fB_GGRk/s1600/HORARY+NUMEROLOGY+OF+THE+TURF.jpg" width="180" />       |
 | 1980     | Joyce c. Wehrman     |  Winning!! Zodiacal Timing   |     <img src="https://images-na.ssl-images-amazon.com/images/I/51V3tr-nfJL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"  width="180" />   |
 | 1980     | Jack Gillen          | Key to Speculation for Greyhound Dog Racing          |          <img src="https://images-na.ssl-images-amazon.com/images/I/51HTRyXEpdL._SX325_BO1,204,203,200_.jpg"  width="180" />      |
+| 1989     | 藤田 学           |  競馬を予知する「魔の数字」 よく当たる奇門遁甲の術          |          <img src="https://static.mercdn.net/item/detail/orig/photos/m64576368395_1.jpg"  width="180" />      |
 | 1997    |  中山雲水   |   馬メシ 二十八宿 奇跡の馬券―とてつもない馬券を生む周期法則 (サンケイブックス) 単行本 |   <img src="https://images-na.ssl-images-amazon.com/images/I/51009YiwKoL._SX354_BO1,204,203,200_.jpg"  width="180" />   |
 | 1998    | 	Mozan     | Racing Numerology: A Standard System of the Science of Numbers Applied to Horse Racing   | <img src="https://images-na.ssl-images-amazon.com/images/I/41YAaHZ20hL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" />   |
 | 2001    | 	Trevor, H.    | Scientific Racing Up to Date   |        <img src="https://user-images.githubusercontent.com/34528743/181475791-c29c8555-b25f-43a3-825a-f6b62c954479.png" width="180" /> |
