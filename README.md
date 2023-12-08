@@ -4,7 +4,7 @@
 
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
-| 1902     |    Sheikh Habeeb Ahmad   |  The Mysteries of Sound and Number      | <img src="![image](https://github.com/kentang2017/horseracingbooks/assets/34528743/3405f5c1-8037-4bbc-bd39-1685be5fa570)
+| 1902     |    Sheikh Habeeb Ahmad   |  The Mysteries of Sound and Number      | ![image](https://github.com/kentang2017/horseracingbooks/assets/34528743/3405f5c1-8037-4bbc-bd39-1685be5fa570)
 " width="180" /> |
 | 1913    |  Sepharial |   The Silver Key | <img src="https://user-images.githubusercontent.com/34528743/213381823-427a88bb-d088-433a-8ad3-a6f02cb6af2c.png" width="180" /> |
 | 1927     | Isidore Kozminsky         | Numbers, their Meaning and Magic. Being an Enlarged and Revised Edition of "Numbers: their Magic and Mystery"            |     <img src="https://pictures.abebooks.com/inventory/30576087798.jpg" width="180" />   |
