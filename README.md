@@ -1,7 +1,10 @@
-# Bibliography of applying astrology, numerology and divination on horse racing 
+# Bibliography of applying astrology, numerology and divination on gamblings
+## Football
+| Year         | Authors           | Title                                           |   Cover      |
+| ------------- | ------------- | --------------------------------------------- | ------------- |
+| 2017    |   Simon Chokoisky  | Gambler's Dharma: Sports Betting with Vedic Astrology |   <img src="https://m.media-amazon.com/images/I/81kD9C5vCOL._SY466_.jpg" width="180" /> |
 
-
-
+## Horseracing
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 1902     |    Sheikh Habeeb Ahmad   |  The Mysteries of Sound and Number      | <img src="https://user-images.githubusercontent.com/34528743/213381823-427a88bb-d088-433a-8ad3-a6f02cb6af2c.png" width="180" /> |
