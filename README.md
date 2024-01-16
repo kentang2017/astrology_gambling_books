@@ -3,8 +3,10 @@
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 2007    |   John Frawley  |  Sports Astrology            |  <img src="https://m.media-amazon.com/images/I/612cPq5FuML._SY466_.jpg" width="180" /> |
+| 2015    |   Alan Ayre     | The Astro-Logic of Winning Football: and how giant-killings and Cup upsets happen | <img src="https://m.media-amazon.com/images/I/51KfMisQL6L._SY445_SX342_.jpg" width="180" /> |
 | 2017    |   Simon Chokoisky  | Gambler's Dharma: Sports Betting with Vedic Astrology |   <img src="https://m.media-amazon.com/images/I/81kD9C5vCOL._SY466_.jpg" width="180" /> |
 | 2020    | Massimo Moras  | Bet and Win on Soccer with Midpoints: A breakthrough in sports astrology and football predictions |  <img src="https://m.media-amazon.com/images/I/51dwsmCfjKL._SY466_.jpg" width="180" /> |
+
 
 ## Horseracing
 | Year         | Authors           | Title                                           |   Cover      |
