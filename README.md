@@ -1,4 +1,4 @@
-# Bibliography of applying astrology, numerology and divination on gamblings
+# Bibliography of applying astrology, numerology and divination on gamblings 有關博彩戲占的書目
 ## Football
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
