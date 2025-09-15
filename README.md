@@ -43,3 +43,8 @@
 | 2016    | 	Anthony J Mead     | 'Raceching Simplified': Use the Power of I Ching to Pick Winners of Horse Races  |        <img src="https://user-images.githubusercontent.com/34528743/181478079-e81a6118-053e-4398-abb3-ac986c4a2620.png" width="180" />   |
 | 2020    | 	Elizabeth Cook   | Winning Ways  |        <img src="https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png" width="180" /> |
 | 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing  |   <img src="https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" /> | 
+
+##Lottery
+| Year         | Authors           | Title                                           |   Cover      |
+| 1999         | 易正山人           | 皇極秘數彩券數理                                 | <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/89e3b125-715c-47e8-ab17-b158672cf0e3" /> |
+
