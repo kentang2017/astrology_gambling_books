@@ -44,8 +44,8 @@
 | 2020    | 	Elizabeth Cook   | Winning Ways  |        <img src="https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png" width="180" /> |
 | 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing  |   <img src="https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" /> | 
 
-##Lottery
-| Year         | Authors           | Title                                           |   Cover      |
-| ------------- | ------------- | --------------------------------------------- | ------------- |
-| 1999         | 易正山人           | 皇極秘數彩券數理          | <img width="180"  alt="image" src="https://github.com/user-attachments/assets/f3290c6d-681b-4fae-befe-4f9d20c6680b" />
+## Lottery
+| Year         | Authors       | Title                                          |   Cover      |
+| ------------ | ------------- | --------------------------------------------- | ------------- |
+| 1999     | 易正山人 | 皇極秘數彩券數理  | <img width="180"  alt="image" src="https://github.com/user-attachments/assets/f3290c6d-681b-4fae-befe-4f9d20c6680b" />
 
