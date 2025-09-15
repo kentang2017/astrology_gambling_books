@@ -47,5 +47,5 @@
 ##Lottery
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
-| 1999         | 易正山人           | 皇極秘數彩券數理                                 | <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/89e3b125-715c-47e8-ab17-b158672cf0e3" /> |
+| 1999         | 易正山人           | 皇極秘數彩券數理                                 | <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/89e3b125-715c-47e8-ab17-b158672cf0e3" width="180" /> |
 
