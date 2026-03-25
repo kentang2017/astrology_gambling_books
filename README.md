@@ -1,5 +1,25 @@
 # Bibliography of applying astrology, numerology and divination on gamblings 有關博彩戲占的書目
-## Football
+
+![GitHub stars](https://img.shields.io/github/stars/kentang2017/astrology_gambling_books?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kentang2017/astrology_gambling_books?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/kentang2017/astrology_gambling_books)
+
+A curated bibliography of books exploring the intersection of **astrology**, **numerology**, and **divination** with gambling and sports prediction — covering football, horse racing, lottery, and more. Whether you are a researcher, collector, or enthusiast, this resource catalogues rare and notable works in this fascinating niche.
+
+---
+
+## 📑 Table of Contents
+
+- [⚽ Football](#-football)
+- [🏇 Horseracing](#-horseracing)
+- [🎰 Lottery](#-lottery)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [🔗 Related Topics](#-related-topics)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## ⚽ Football
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 1979     | Jack Gillen          | Key to speculation for professional and college football | <img src="https://i.ebayimg.com/images/g/uk8AAOSwsLJmEXve/s-l960.webp" width="180" />     |
@@ -10,7 +30,7 @@
 | 2020    | Massimo Moras  | Bet and Win on Soccer with Midpoints: A breakthrough in sports astrology and football predictions |  <img src="https://m.media-amazon.com/images/I/51dwsmCfjKL._SY466_.jpg" width="180" /> |
 
 
-## Horseracing
+## 🏇 Horseracing
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 1902     |    Sheikh Habeeb Ahmad   |  The Mysteries of Sound and Number      | <img src="https://user-images.githubusercontent.com/34528743/213381823-427a88bb-d088-433a-8ad3-a6f02cb6af2c.png" width="180" /> |
@@ -44,8 +64,41 @@
 | 2020    | 	Elizabeth Cook   | Winning Ways  |        <img src="https://user-images.githubusercontent.com/34528743/181475548-04dfc49c-1a15-421b-9d0a-add2c98e3ba6.png" width="180" /> |
 | 2021     | Gary Price |  The Astrologer’s Guide to Horse Racing: A Field Guide to Racing  |   <img src="https://images-na.ssl-images-amazon.com/images/I/518uq1vzB9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="180" /> | 
 
-## Lottery
+## 🎰 Lottery
 | Year         | Authors       | Title                                          |   Cover      |
 | ------------ | ------------- | --------------------------------------------- | ------------- |
 | 1999     | 易正山人 | 皇極秘數彩券數理  | <img width="180"  alt="image" src="https://github.com/user-attachments/assets/f3290c6d-681b-4fae-befe-4f9d20c6680b" />
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! If you know of a book that belongs in this bibliography, please:
+
+1. **Fork** this repository
+2. Add the book entry to the appropriate category table (Football, Horseracing, Lottery, etc.)
+3. Include the year, author(s), title, and a cover image if available
+4. Submit a **Pull Request** with a brief description of the addition
+
+You can also [open an issue](https://github.com/kentang2017/astrology_gambling_books/issues) to suggest a book or report a correction.
+
+---
+
+## 🔗 Related Topics
+
+- [Astrology](https://en.wikipedia.org/wiki/Astrology) — the study of celestial bodies' influence on human affairs
+- [Numerology](https://en.wikipedia.org/wiki/Numerology) — the mystical study of numbers and their significance
+- [Horary Astrology](https://en.wikipedia.org/wiki/Horary_astrology) — an astrological method for answering specific questions
+- [I Ching](https://en.wikipedia.org/wiki/I_Ching) — an ancient Chinese divination text and method
+- [Sports Betting](https://en.wikipedia.org/wiki/Sports_betting) — wagering on the outcome of sporting events
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is a **bibliographic reference** compiled for academic, historical, and research purposes only. The inclusion of a book in this list does not constitute an endorsement of its methods or claims. Gambling involves financial risk — please gamble responsibly.
+
+---
+
+⭐ If you find this bibliography useful, please consider giving it a **star** to help others discover it!
 
