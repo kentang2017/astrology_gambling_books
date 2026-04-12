@@ -24,6 +24,7 @@ A curated bibliography of books exploring the intersection of **astrology**, **n
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 1979     | Jack Gillen          | Key to speculation for professional and college football | <img width="180"  alt="image" src="https://github.com/user-attachments/assets/b0168317-84e1-48d9-ac4c-fdb2b03a0b04" />    |
 | 2007    |   John Frawley  |  Sports Astrology            |  <img src="https://m.media-amazon.com/images/I/612cPq5FuML._SY466_.jpg" width="180" /> |
+| 2012    |   Doris Chase Doane    |    Contest Charts  |  <img width="180" alt="image" src="https://github.com/user-attachments/assets/0135dce9-de62-411a-8de4-3e0a21bacd14" /> |
 | 2015    |   Alan Ayre     | The Astro-Logic of Winning Football: and how giant-killings and Cup upsets happen | <img src="https://m.media-amazon.com/images/I/51KfMisQL6L._SY445_SX342_.jpg" width="180" /> |
 | 2017    |   Simon Chokoisky  | Gambler's Dharma: Sports Betting with Vedic Astrology |   <img src="https://m.media-amazon.com/images/I/81kD9C5vCOL._SY466_.jpg" width="180" /> |
 | 2017    | Dr. Ravi Rao | Sports Astrology: The Inclusive Methodology of Game Analysis: World Cup, T-20 and IPL |  <img src="https://m.media-amazon.com/images/I/51KBYHsYfEL._SY445_SX342_.jpg" width="180" /> |
