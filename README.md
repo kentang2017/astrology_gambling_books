@@ -29,6 +29,7 @@ A curated bibliography of books exploring the intersection of **astrology**, **n
 | 2017    |   Simon Chokoisky  | Gambler's Dharma: Sports Betting with Vedic Astrology |   <img src="https://m.media-amazon.com/images/I/81kD9C5vCOL._SY466_.jpg" width="180" /> |
 | 2017    | Dr. Ravi Rao | Sports Astrology: The Inclusive Methodology of Game Analysis: World Cup, T-20 and IPL |  <img src="https://m.media-amazon.com/images/I/51KBYHsYfEL._SY445_SX342_.jpg" width="180" /> |
 | 2020    | Massimo Moras  | Bet and Win on Soccer with Midpoints: A breakthrough in sports astrology and football predictions |  <img src="https://m.media-amazon.com/images/I/51dwsmCfjKL._SY466_.jpg" width="180" /> |
+| 2021    | Gaoming Share | Who's the Winner? : Case Analysis of Sports Astrology for Beginners | <img width="180"  alt="image" src="https://github.com/user-attachments/assets/5fdc88be-c209-4bb0-9bd7-db958632dc74" /> |
 
 
 ## 🏇 Horseracing
