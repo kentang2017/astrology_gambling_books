@@ -23,6 +23,7 @@ A curated bibliography of books exploring the intersection of **astrology**, **n
 | Year         | Authors           | Title                                           |   Cover      |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
 | 1979     | Jack Gillen          | Key to speculation for professional and college football | <img width="180"  alt="image" src="https://github.com/user-attachments/assets/b0168317-84e1-48d9-ac4c-fdb2b03a0b04" />    |
+| 2003    |   Rusty Wither | Be A Winner Against All Odds | <img width="180" alt="image" src="https://github.com/user-attachments/assets/92f01167-f18d-448e-b8c4-1ec8e6e9fb27" />|
 | 2007    |   John Frawley  |  Sports Astrology            |  <img src="https://m.media-amazon.com/images/I/612cPq5FuML._SY466_.jpg" width="180" /> |
 | 2012    |   Doris Chase Doane    |    Contest Charts  |  <img width="180" alt="image" src="https://github.com/user-attachments/assets/0135dce9-de62-411a-8de4-3e0a21bacd14" /> |
 | 2015    |   Alan Ayre     | The Astro-Logic of Winning Football: and how giant-killings and Cup upsets happen | <img src="https://m.media-amazon.com/images/I/51KfMisQL6L._SY445_SX342_.jpg" width="180" /> |
